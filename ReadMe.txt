@@ -1,4 +1,3 @@
 Kevin Ha
-Lab 4
+Poker App
 
-Everything is working properly.
